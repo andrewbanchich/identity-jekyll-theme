@@ -1,1 +1,1 @@
-# Identity-Jekyll-Theme
+# "Identity" Jekyll Theme
