@@ -1,5 +1,9 @@
+---
+layout: default
+title: Indentity by HTML5 UP
+---
 
-						<!--
+<!--
 						<hr />
 						<h2>Extra Stuff!</h2>
 						<form method="post" action="#">
