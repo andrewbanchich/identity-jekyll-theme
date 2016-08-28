@@ -12,6 +12,10 @@ description: The Jekyll version of the Identity theme by HTML5 UP.
 baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
+# Identity
+your-name: Jane Doe
+your-title: SENIOR PSYCHONAUTICS ENGINEER
+
 # Social settings
 github_username: andrewbanchich
 twitter_username: andrewbanchich
