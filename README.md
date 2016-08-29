@@ -15,9 +15,10 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 
 # Added Features
 
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up!
+* Add your **social profiles** easily in `_config.yml`.
 * **Automatic sitemap generation** via the [Jekyll Sitemap Generator](https://github.com/jekyll/jekyll-sitemap) plugin.
 * **Automatic SEO** via the [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) plugin.
+* **Coming soon**: Only social profiles buttons you enter in `config.yml` show up!
 
 # Credits
 
