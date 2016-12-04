@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Identity" theme by [HTML5 UP](https://html5up.net/).
 
-![Identity Theme](images/identity.jpg "Identity Theme")
+![Identity Theme](assets/images/identity.jpg "Identity Theme")
 
 # How to Use
 
