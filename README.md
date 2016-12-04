@@ -19,23 +19,23 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 
 # Configuration
 
-Because of the added features, you can use these custom parameters in `_config.yml`.
+You can use the following custom parameters in `_config.yml`.
 
 ## Identity
-- your-name
-- your-title
+- `your-name` sets your name.
+- `your-title` sets your title.
 
 ## Social settings
-- 500px_url
-- facebook_url
-- github_url
-- gitlab_url
-- googleplus_url
-- instagram_url
-- linkedin_url
-- pinterest_url
-- slack_url
-- twitter_url
+- `500px_url`
+- `facebook_url`
+- `github_url`
+- `gitlab_url`
+- `googleplus_url`
+- `instagram_url`
+- `linkedin_url`
+- `pinterest_url`
+- `slack_url`
+- `twitter_url`
 
 # Credits
 
